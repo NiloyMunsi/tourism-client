@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Lato&family=Montserrat&family=Oswald&display=swap');
+ .App{
+    /* font-family: 'Lato', sans-serif; */
+    
+    font-family: 'Oswald', sans-serif;
+ }
+ .brand-logo{
+    font-family: 'Fruktur', cursive;
+    color: violet;
+ }
+ .banner-title{
+    font-family: 'Fruktur', cursive;
+    font-size: 50px;
+ }
+ li{
+    list-style: none; 
+ }
+ li a{
+     text-decoration: none;
+ }
